@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(128, 128, 128, 0.925);
+}
+
+.nav-center {
+  width: 80%;
+  margin: 0 auto;
+  border: solid;
+  border-radius: 100px;
+  border-color: black;
+}
+
+.nav-title {
+  font-size: 50px;
+  margin-left: 345px;
+  color: white;
+}
+
+main {
+  position: absolute;
+  top: 350px;
+  left: 500px;
+}
+
+.btn-hero {
+  position: absolute;
+  left: 100px;
+  top: 140px;
+  width: 100px;
+  height: 50px;
+}
